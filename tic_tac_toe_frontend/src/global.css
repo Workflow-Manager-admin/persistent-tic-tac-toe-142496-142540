@@ -6,10 +6,12 @@
  */
 
 :root {
-  --primary-color: #000000;
-  --secondary-color: #333333;
-  --accent-color: #0078d4;
-  --background-color: #ffffff;
+  --primary-color: #1976d2;
+  --secondary-color: #fff;
+  --accent-color: #ffc107;
+  --background-color: #12182b;
+  --background-color2: #222e3d;
+  --tile-bg: #233043;
 }
 
 html {
